@@ -1,7 +1,5 @@
 package bpmTest;
 
-import org.junit.Test;
-
 /**
  * Created by YuChen on 2017/9/15 0015
  */
