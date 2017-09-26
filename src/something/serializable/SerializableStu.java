@@ -1,4 +1,4 @@
-package serializable;
+package something.serializable;
 
 /**
  * Created by YuChen on 2017/9/20 0020

@@ -1,6 +1,9 @@
-package serializable.transientStu;
+package something.serializable.transientStu;
 
-import java.io.*;
+import java.io.IOException;
+import java.io.ObjectInputStream;
+import java.io.ObjectOutputStream;
+import java.io.Serializable;
 
 /**
  * Created by YuChen on 2017/9/20 0020
