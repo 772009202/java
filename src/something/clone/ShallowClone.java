@@ -24,7 +24,13 @@ public class ShallowClone implements Cloneable{
 
 	@Override
 	protected ShallowClone clone() throws CloneNotSupportedException {
-		ShallowClone shallowClone = (ShallowClone) super.clone();
+		ShallowClone shallowClone = null;
+		try {
+			shallowClone = (ShallowClone) super.clone(); //这里捕获异常是因为父类没有实现Cloneable接口会抛出异常
+														//增加程序的准确性 当然object就算了 这里只是例子
+		} catch (CloneNotSupportedException e) {
+		    e.printStackTrace();
+		}
 		return shallowClone;
 	}
 
