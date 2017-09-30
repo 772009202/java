@@ -7,6 +7,7 @@ package thread.foundation;
  */
 public class NewThread {
 	public static void main(String[] args) {
+
 	 	Thread thread1 = new Thread1();
 	 	Thread thread2 = new Thread(new Runnable() {
 			private int i = 100;
