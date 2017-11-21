@@ -1,8 +1,12 @@
 package thread.thir;
 
+import java.util.Date;
+
 /**
  * Created by YuChen on 2017/10/11 0011
  * 生产者和消费者模式 -> 由notify和wait衍生而来的
+ *
+ * 1.操作值  2.操作栈 3.
  */
 public class PandC {
 
@@ -13,6 +17,7 @@ public class PandC {
 		thread1.start();
 		thread2.start();
 	}
+
 	static class Thread1 extends Thread {
 		private P p;
 		Thread1 (P p) {
