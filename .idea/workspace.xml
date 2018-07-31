@@ -1,70 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2542528b-480b-4ffe-8145-08bce0a477d9" name="Default" comment="日常更新">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="2542528b-480b-4ffe-8145-08bce0a477d9" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/effectivejava/firchapter/finalize/A.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/effectivejava/firchapter/finalize/FinalizeTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/effectivejava/firchapter/finalize/finalizeHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/effectivejava/firchapter/staticmethod/Provider.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/effectivejava/firchapter/staticmethod/Service.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/effectivejava/firchapter/staticmethod/Services.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/test/Test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/test/Test3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/test/test/Test5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collection/ListStu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UseUrlClass/HttpUrl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UseUrlClass/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bpmTest/BpmTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/effectivejava/firchapter/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/effectivejava/firchapter/finalize/FinalizeTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/effectivejava/firchapter/finalize/finalizeHelper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/effectivejava/firchapter/staticmethod/Services.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/effectivejava/thichapter/ComparableTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/exception/MyException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamode/proxy/SayHello.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamode/proxy/SayHelloImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamode/proxy/SayHelloProxy.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamode/proxy/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/one/StackTraceElementStu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pachong/BaiduPC.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/reflex/classloader/ClassLoaderStu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/something/MD5_2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/something/clone/DeepClone.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/something/clone/ShallowClone.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/something/enumStu/Color.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/something/enumStu/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/something/generic/GenericDemo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/something/generic/GenericDemo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/something/generic/GenericDemo3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/something/serializable/SerializableStu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/something/serializable/transientStu/TransientKey.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/something/zaoxing/MethodReturnZX.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Test2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Test5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Test6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/Test7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thread/fir/InterruptThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thread/fir/NewThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thread/fir/Order.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thread/fir/SomeAPI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thread/fir/SusAndRes.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thread/fir/ThreadDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thread/fir/Yield.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thread/sec/AtomicIntgerStu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thread/sec/SynchronizedStu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thread/sec/SynchronizedStu2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thread/sec/SynchronizedStu3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thread/sec/SynchronizedStu4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thread/sec/SynchronizedStu5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thread/sec/SynchronizedStu6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thread/sec/Volatile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thread/sec/txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thread/thir/PandC.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thread/thir/WaitAndNotify.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/thread/thir/txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/javamode/proxy/SayHelloCglibProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javamode/proxy/SayHelloCglibProxy.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -82,11 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="SayHelloCglibProxy.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="SayHelloCglibProxy.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/javamode/proxy/SayHelloCglibProxy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+            <state relative-caret-position="248">
+              <caret line="19" column="65" lean-forward="true" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,43 +33,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CallbackFilter.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/.m2/repository/cglib/cglib/3.2.2/cglib-3.2.2.jar!/net/sf/cglib/proxy/CallbackFilter.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SayHelloProxy.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/javamode/proxy/SayHelloProxy.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/javamode/proxy/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="10" column="8" lean-forward="true" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="65" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SayHelloImpl.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="SayHelloImpl.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/javamode/proxy/SayHelloImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="377">
-              <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+            <state relative-caret-position="406">
+              <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
               <folding>
                 <element signature="e#155#156#0" expanded="true" />
                 <element signature="e#189#190#0" expanded="true" />
                 <element signature="e#214#215#0" expanded="true" />
-                <element signature="e#242#243#0" expanded="true" />
+                <element signature="e#251#252#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -247,8 +159,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-135" />
-    <option name="y" value="147" />
+    <option name="x" value="23" />
+    <option name="y" value="57" />
     <option name="width" value="1680" />
     <option name="height" value="1005" />
   </component>
@@ -453,6 +365,34 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="effectivejava" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="effectivejava" type="462c0819:PsiDirectoryNode" />
+              <item name="firchapter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="effectivejava" type="462c0819:PsiDirectoryNode" />
+              <item name="firchapter" type="462c0819:PsiDirectoryNode" />
+              <item name="finalize" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="effectivejava" type="462c0819:PsiDirectoryNode" />
+              <item name="thichapter" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="study" type="b2602c69:ProjectViewProjectNode" />
@@ -730,7 +670,7 @@
       <workItem from="1532418394419" duration="1216000" />
       <workItem from="1532423890437" duration="1564000" />
       <workItem from="1532681714267" duration="103000" />
-      <workItem from="1533007127871" duration="6100000" />
+      <workItem from="1533007127871" duration="8881000" />
     </task>
     <task id="LOCAL-00001" summary="代理模式">
       <created>1505379985812</created>
@@ -809,24 +749,38 @@
       <option name="project" value="LOCAL" />
       <updated>1526572534036</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="日常更新">
+      <created>1533023330032</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1533023330033</updated>
+    </task>
+    <task id="LOCAL-00013" summary="日常更新">
+      <created>1533023410492</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1533023410492</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="263910000" />
+    <option name="totallyTimeSpent" value="266691000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5146413" side_tool="true" weight="0.864139" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.32897604" />
       <window_info anchor="bottom" id="JRebel Console" order="8" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="4" weight="0.054904833" />
       <window_info anchor="bottom" id="JRebel Executor" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="3" />
+      <window_info active="true" anchor="bottom" id="Inspection Results" sideWeight="0.49946696" visible="true" weight="0.32897604" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -837,10 +791,10 @@
       <window_info anchor="right" id="Palette&#9;" order="9" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.48535872" visible="true" weight="0.01198257" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.48507464" weight="0.34640524" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.4941435" weight="0.3295838" />
       <window_info anchor="bottom" id="Terminal" order="9" weight="0.20997679" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15085287" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21055438" />
       <window_info id="JRebel" order="7" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="7" />
       <window_info id="Favorites" order="5" side_tool="true" />
@@ -904,15 +858,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/thread/thir/Liu.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/thread/thir/txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://F:/jdk/jdk1.8/src.zip!/java/util/Date.java" />
     <entry file="jar://F:/jdk/jdk1.8/src.zip!/java/lang/Thread.java" />
     <entry file="file://$PROJECT_DIR$/src/thread/thir/ThreadLocalStu.java" />
     <entry file="file://$PROJECT_DIR$/src/thread/thir/WaitAndNotify2.java" />
@@ -1002,13 +947,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pachong/BaiduPC.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-211">
-          <caret line="10" column="38" selection-start-line="10" selection-start-column="38" selection-end-line="10" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/Test3.java" />
     <entry file="file://$PROJECT_DIR$/src/test/Test2.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/aliAPI/Question.java">
@@ -1095,19 +1033,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javamode/proxy/SayHelloImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="377">
-          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
-          <folding>
-            <element signature="e#155#156#0" expanded="true" />
-            <element signature="e#189#190#0" expanded="true" />
-            <element signature="e#214#215#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/javamode/proxy/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="290">
@@ -1117,7 +1042,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/javamode/proxy/SayHelloProxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
+        <state relative-caret-position="248">
           <caret line="18" column="38" lean-forward="true" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
         </state>
       </provider>
@@ -1136,12 +1061,53 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pachong/BaiduPC.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/effectivejava/thichapter/ComparableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" column="53" lean-forward="true" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/cglib/cglib/3.2.2/cglib-3.2.2.jar!/net/sf/cglib/proxy/Callback.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/cglib/cglib/3.2.2/cglib-3.2.2.jar!/net/sf/cglib/proxy/MethodInterceptor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="9" column="46" selection-start-line="9" selection-start-column="46" selection-end-line="9" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/javamode/proxy/SayHelloCglibProxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="23" column="20" lean-forward="true" selection-start-line="23" selection-start-column="20" selection-end-line="23" selection-end-column="20" />
+        <state relative-caret-position="248">
+          <caret line="19" column="65" lean-forward="true" selection-start-line="19" selection-start-column="65" selection-end-line="19" selection-end-column="65" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javamode/proxy/SayHelloImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="406">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding>
+            <element signature="e#155#156#0" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+            <element signature="e#251#252#0" expanded="true" />
           </folding>
         </state>
       </provider>

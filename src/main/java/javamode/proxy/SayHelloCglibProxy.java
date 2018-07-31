@@ -17,12 +17,12 @@ public class SayHelloCglibProxy<T> implements MethodInterceptor {
         this.t = t;
         Enhancer enhancer = new Enhancer();
         enhancer.setSuperclass(this.t.getClass());
-        enhancer.setCallbacks(new Callback[]{this, NoOp.INSTANCE});
+        enhancer.setCallbacks(new Callback[]{this, new StaticValue()});
         enhancer.setCallbackFilter((e) -> {
             if("sayHello".equals(e.getName())) {
-                return 1;
-            } else {
                 return 0;
+            } else {
+                return 1;
             }
         });
         return (T) enhancer.create();
@@ -43,5 +43,14 @@ public class SayHelloCglibProxy<T> implements MethodInterceptor {
         sayHelloProxy.sayHello();
         sayHelloProxy.change();
 //        CallbackFilter
+    }
+}
+
+class StaticValue implements FixedValue {
+
+    @Override
+    public Object loadObject() throws Exception {
+        System.out.println("你好呀");
+        return "StaticValue";
     }
 }
