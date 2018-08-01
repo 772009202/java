@@ -32,10 +32,12 @@ public class InterruptThread {
 	/**
 	 * 暴力的退出，利用抛异常的方式，不会执行下面的语句
 	 */
-	class A extends Thread{
+	class A extends Thread {
+
+
 		@Override
 		public void run() {
-			if(this.interrupted()) throw new MyException("----线程退出");
+			if (this.interrupted()) throw new MyException("----线程退出");
 			System.out.println(9);//异常后不会被执行。
 		}
 	}

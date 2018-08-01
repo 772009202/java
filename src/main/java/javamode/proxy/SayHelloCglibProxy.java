@@ -19,7 +19,7 @@ public class SayHelloCglibProxy<T> implements MethodInterceptor {
         enhancer.setSuperclass(this.t.getClass());
         enhancer.setCallbacks(new Callback[]{this, new StaticValue()});
         enhancer.setCallbackFilter((e) -> {
-            if("sayHello".equals(e.getName())) {
+            if ("sayHello".equals(e.getName())) {
                 return 0;
             } else {
                 return 1;
