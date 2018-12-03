@@ -6,7 +6,7 @@ package something.enumStu;
 public class Test {
 
 	public static void main(String[] args) {
-//		chooseColor(Color.BLANK);
+		chooseColor(Color.BLANK.getValue());
 		chooseColor(Color.YELLOW.getValue());
 
 	}

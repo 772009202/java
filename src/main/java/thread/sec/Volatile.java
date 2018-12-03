@@ -1,5 +1,7 @@
 package thread.sec;
 
+import java.util.concurrent.locks.ReentrantLock;
+
 /**
  * Created by YuChen on 2017/10/10 0010
  * 此例可能出现死循环
@@ -10,7 +12,6 @@ package thread.sec;
  *
  */
 public class Volatile {
-
 	public static void main(String[] args) throws InterruptedException {
 		Service service = new Service();
 		new Thread(service).start();

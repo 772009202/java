@@ -2,7 +2,6 @@ package bpmTest;
 
 /**
  * Created by YuChen on 2017/9/15 0015
- * @author chenyu
  */
 public class BpmTest {
 

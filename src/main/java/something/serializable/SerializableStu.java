@@ -5,4 +5,5 @@ package something.serializable;
  * 关于序列化的学习
  */
 public class SerializableStu {
+
 }

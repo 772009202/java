@@ -17,8 +17,7 @@ public class Test {
 	static AtomicInteger atomicInteger = new AtomicInteger(messageNum);//原子数递增变量
 	static List<String> msgList = new ArrayList<String>(messageNum);//消息长度
 	static String message = null;
-
-	public static void main(String[] args) throws Exception {
+	public static void main(String[] args) {
 		int initArray = 0;//初始化消息列表长度
 		while(initArray < messageNum){
 			initArray ++ ;
@@ -30,8 +29,16 @@ public class Test {
 			t1 = new MyThread("t" + i);
 			t1.start();
 		}
-		count.await();//计数器阻塞主线程继续执行 直到计数器减到0 主线程继续执行
-		Thread.sleep(8000);
+		try {
+			count.await();//计数器阻塞主线程继续执行 直到计数器减到0 主线程继续执行
+		} catch (InterruptedException e) {
+			e.printStackTrace();
+		}
+		try {
+			Thread.sleep(8000);
+		} catch (InterruptedException e) {
+			e.printStackTrace();
+		}
 		System.out.println("---------");
 		System.out.println(msgList);
 

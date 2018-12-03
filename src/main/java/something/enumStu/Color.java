@@ -10,7 +10,7 @@ public enum Color {
 	RED,
 	GREEN,
 	BLANK,
-	YELLOW("黄色", "yellow"); //有自定义方法 这边必须是分号
+	YELLOW("黄色", ""); //有自定义方法 这边必须是分号
 
 	private String key;
 	private String value;

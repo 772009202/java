@@ -7,6 +7,7 @@ package thread.fir;
  *
  */
 public class Yield {
+
 }
 
 /*

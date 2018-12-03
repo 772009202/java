@@ -1,0 +1,10 @@
+LOCK 统一接口
+AbstractQueuedSynchronizer 队列器提供模板方法完成自定义锁
+    模板内容 -> 独占式和共享式以及查询队列中线程情况
+
+什么是公平锁：等待时间最长的线程获取锁
+
+停止线程的三种方式：1.正常结束 run运行完
+                   2.stop //不推荐
+                   3.interrupt
+                   4.异常法  return法

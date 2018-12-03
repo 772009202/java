@@ -10,17 +10,17 @@ import java.util.concurrent.atomic.AtomicInteger;
 public class AtomicIntgerStu {
 
 	public static void main(String[] args) {
-		/*Service service = new Service();
+		Service service = new Service();
 		Thread1 t1 = new Thread1(service);
 		Thread1 t2 = new Thread1(service);
 		t1.start();
-		t2.start();*/
+		t2.start();
 
-		Service1 service2 = new Service1();
-		Thread2 t3 = new Thread2(service2);
-		Thread2 t4 = new Thread2(service2);
-		t3.start();
-		t4.start();
+//		Service1 service2 = new Service1();
+//		Thread2 t3 = new Thread2(service2);
+//		Thread2 t4 = new Thread2(service2);
+//		t3.start();
+//		t4.start();
 	}
 
 	static class Service {
@@ -31,8 +31,9 @@ public class AtomicIntgerStu {
 		 * @throws InterruptedException
 		 */
 		void change() throws InterruptedException {
-			for (int i=0; i<100000; i++) {
+			for (int i=0; i<100; i++) {
 				System.out.println(atomicInteger.incrementAndGet());
+				Thread.sleep(100);
 			}
 		}
 	}
@@ -63,7 +64,11 @@ public class AtomicIntgerStu {
 		@Override
 		public void run() {
 			super.run();
-			service1.change();
+			try {
+				service1.change();
+			} catch (InterruptedException e) {
+				e.printStackTrace();
+			}
 		}
 	}
 	static class Service1{
@@ -71,10 +76,11 @@ public class AtomicIntgerStu {
 		 * 仅仅具有可见性，程序依旧线程不安全
 		 */
 		private volatile int num = 0;
-		void change() {
-			for (int i=0; i<100000; i++) {
+		void change() throws InterruptedException {
+			for (int i=0; i<100; i++) {
 				num ++;
 				System.out.println(num);
+				Thread.sleep(100);
 			}
 		}
 	}
