@@ -8,10 +8,8 @@ import java.util.Date;
 public class Test {
 
 	public static void main(String[] args) throws Exception {
-		Date date = new Date();
-		Integer[] array = {1, 2, 3, 6, 8, 10};
-		Integer number = Arrays.asList(array).stream().max((e1, e2) -> e1 - e2).get();
-		System.out.println(number);
+		String a = "1512090170000";
 
+		System.out.println(new Date(Long.parseLong(a)));
 	}
 }
