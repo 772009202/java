@@ -1,6 +1,5 @@
 package httpClient;
 
-import org.apache.commons.io.IOUtils;
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
 import org.apache.http.HttpStatus;
@@ -121,7 +120,8 @@ public class HttpUtil {
 			HttpEntity entity = response.getEntity();
 			if (entity != null) {
 				InputStream instream = entity.getContent();
-				result = IOUtils.toString(instream, "UTF-8");
+//				result = IOUtils.toString(instream, "UTF-8");
+				result = "1";
 			}
 		} catch (IOException e) {
 			e.printStackTrace();
