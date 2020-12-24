@@ -1,4 +1,4 @@
-package lambda.stream;
+package something.lambda.stream;
 
 import org.junit.Test;
 

@@ -1,6 +1,6 @@
 package thread.threadArt.four;
 
-import exception.MyException;
+import something.exception.MyException;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;

@@ -1,6 +1,6 @@
 package datastructure.linkedstore.single;
 
-import exception.MyException;
+import something.exception.MyException;
 
 import java.util.Collection;
 import java.util.Iterator;

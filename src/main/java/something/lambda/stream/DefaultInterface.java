@@ -1,4 +1,4 @@
-package lambda.stream;
+package something.lambda.stream;
 
 /** Created by YuChen on 2017/11/22 0022 */
 public class DefaultInterface {
