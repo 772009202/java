@@ -1,4 +1,4 @@
-package exception;
+package something.exception;
 
 /**
  * @author chenyu

@@ -1,6 +1,6 @@
 package thread.fir;
 
-import exception.MyException;
+import something.exception.MyException;
 
 /**
  * Created by YuChen on 2017/9/30 0030 1.interrupted(静态)判断运行此处的线程是不是被打断 2.isInterrupted(非静态)

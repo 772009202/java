@@ -1,4 +1,4 @@
-package lambda.new1;
+package something.lambda.new1;
 
 /**
  * Created by YuChen on 2017/12/20 0020

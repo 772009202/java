@@ -1,6 +1,6 @@
 package datastructure.storehouse.dequeue;
 
-import exception.MyException;
+import something.exception.MyException;
 
 /**
  * Created by YuChen on 2018/3/27 0027

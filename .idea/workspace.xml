@@ -16,59 +16,39 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="GROUP_NODE:gitee" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
     <select>
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:branch-12-24" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2542528b-480b-4ffe-8145-08bce0a477d9" name="Default" comment="删掉无用的包">
+    <list default="true" id="2542528b-480b-4ffe-8145-08bce0a477d9" name="Default" comment="优化">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/datastructure/linkedstore/single/ListSLinked.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructure/linkedstore/single/ListSLinked.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastructure/linkedstore/single/Node.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructure/linkedstore/single/Node.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastructure/linkedstore/single/SLNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructure/linkedstore/single/SLNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/datastructure/map/MapTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructure/map/MapTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datastructure/map/MapTest.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/datastructure/storehouse/dequeue/Dequeue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructure/storehouse/dequeue/Dequeue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datastructure/storehouse/stack/MyStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructure/storehouse/stack/MyStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/datastructure/storehouse/stack/StoreHouse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructure/storehouse/stack/StoreHouse.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/datastructure/storehouse/stack/StoreHouseStu1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/datastructure/storehouse/stack/StoreHouseStu1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/httpClient/HttpClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/something/httpClient/HttpClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/httpClient/HttpUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/something/httpClient/HttpUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/proxy/SayHello.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/something/proxy/SayHello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/proxy/SayHelloImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/something/proxy/SayHelloImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/proxy/SayHelloProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/something/proxy/SayHelloProxy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/model/proxy/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/something/proxy/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/socket/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/something/socket/package-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/socket/rmi/AIO/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/something/socket/rmi/AIO/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/socket/rmi/AIO/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/something/socket/rmi/AIO/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/socket/rmi/BIO/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/something/socket/rmi/BIO/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/socket/rmi/BIO/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/something/socket/rmi/BIO/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/socket/rmi/BIO/Stu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/something/socket/rmi/BIO/Stu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/socket/rmi/NIO/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/something/socket/rmi/NIO/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/socket/rmi/NIO/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/something/socket/rmi/NIO/Server.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/socket/rmi/NIO/Stu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/something/socket/rmi/NIO/Stu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/Java9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/StuTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/Student.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/Test2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/Test5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/Test6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/Test7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test/Test8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/exception/MyException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/something/exception/MyException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lambda/new1/FunctionOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/something/lambda/new1/FunctionOne.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lambda/new1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/something/lambda/new1/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lambda/optional/OptionalStu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/something/lambda/optional/OptionalStu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lambda/stream/ClosureStu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/something/lambda/stream/ClosureStu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lambda/stream/DefaultInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/something/lambda/stream/DefaultInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lambda/stream/StreamStu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/something/lambda/stream/StreamStu.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lambda/stream/StreamStu_20200528.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/something/lambda/stream/StreamStu_20200528.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/lambda/stream/StreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/something/lambda/stream/StreamTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/something/digui/WeiDigui.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/something/zaoxing/MethodReturnZX.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/thread/fir/InterruptThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/fir/InterruptThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/threadArt/four/MyAbstractQueuedSynchronizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/threadArt/four/MyAbstractQueuedSynchronizer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/threadArt/four/MyPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/threadArt/four/MyPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/threadArt/four/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/threadArt/four/MyQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/threadArt/four/MyWeb.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/threadArt/four/MyWeb.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/threadArt/four/TXT" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/threadArt/four/TXT" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/threadArt/four/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/threadArt/four/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/threadArt/four/TestCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/threadArt/four/TestCondition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/threadArt/sec/CounterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/threadArt/sec/CounterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/threadArt/thi/Test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/threadArt/thi/Test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thread/threadArt/four/MyQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/thread/threadArt/four/MyQueue.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,7 +94,7 @@
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="branch_202006" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -228,12 +208,12 @@
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambda.stream.*" />
+          <option name="PATTERN" value="something.lambda.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lambda.stream" />
-      <option name="MAIN_CLASS_NAME" value="lambda.stream.StreamStu_20200528" />
+      <option name="PACKAGE_NAME" value="something.lambda.stream" />
+      <option name="MAIN_CLASS_NAME" value="something.lambda.stream.StreamStu_20200528" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -245,12 +225,12 @@
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambda.stream.*" />
+          <option name="PATTERN" value="something.lambda.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lambda.stream" />
-      <option name="MAIN_CLASS_NAME" value="lambda.stream.StreamStu_20200528" />
+      <option name="PACKAGE_NAME" value="something.lambda.stream" />
+      <option name="MAIN_CLASS_NAME" value="something.lambda.stream.StreamStu_20200528" />
       <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -262,12 +242,12 @@
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lambda.stream.*" />
+          <option name="PATTERN" value="something.lambda.stream.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="lambda.stream" />
-      <option name="MAIN_CLASS_NAME" value="lambda.stream.StreamStu_20200528" />
+      <option name="PACKAGE_NAME" value="something.lambda.stream" />
+      <option name="MAIN_CLASS_NAME" value="something.lambda.stream.StreamStu_20200528" />
       <option name="METHOD_NAME" value="test3" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -405,7 +385,7 @@
       <workItem from="1597715952771" duration="1835000" />
       <workItem from="1597802634031" duration="93000" />
       <workItem from="1608705237063" duration="4355000" />
-      <workItem from="1608773132063" duration="1042000" />
+      <workItem from="1608773132063" duration="1883000" />
     </task>
     <task id="LOCAL-00001" summary="代理模式">
       <created>1505379985812</created>
@@ -533,7 +513,21 @@
       <option name="project" value="LOCAL" />
       <updated>1592835382663</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="优化">
+      <created>1608787953828</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1608787953828</updated>
+    </task>
+    <task id="LOCAL-00020" summary="优化">
+      <created>1608788005916</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1608788005916</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -550,7 +544,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="branch-12-24" />
                       </list>
                     </value>
                   </entry>
@@ -578,13 +572,18 @@
     <MESSAGE value="git忽略文件" />
     <MESSAGE value="java8 的相关特性" />
     <MESSAGE value="删掉无用的包" />
-    <option name="LAST_COMMIT_MESSAGE" value="删掉无用的包" />
+    <MESSAGE value="优化" />
+    <option name="LAST_COMMIT_MESSAGE" value="优化" />
   </component>
   <component name="WindowStateProjectService">
     <state x="533" y="120" key="#com.intellij.ide.util.MemberChooser" timestamp="1608710146917">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="533" y="120" key="#com.intellij.ide.util.MemberChooser/0.23.1440.812@0.23.1440.812" timestamp="1608710146917" />
+    <state x="81" y="23" key="CommitChangelistDialog2" timestamp="1608787990226">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="81" y="23" key="CommitChangelistDialog2/0.23.1440.812@0.23.1440.812" timestamp="1608787990226" />
     <state width="415" height="466" key="DebuggerActiveHint" timestamp="1608705751884">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
@@ -625,6 +624,18 @@
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state x="208" y="23" key="SettingsEditor/0.23.1440.812@0.23.1440.812" timestamp="1608705567278" />
+    <state x="320" y="169" key="Vcs.Push.Dialog.v2" timestamp="1608788309348">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="320" y="169" key="Vcs.Push.Dialog.v2/0.23.1440.812@0.23.1440.812" timestamp="1608788309348" />
+    <state x="435" y="224" key="git4idea.merge.GitPullDialog" timestamp="1608788195832">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="435" y="224" key="git4idea.merge.GitPullDialog/0.23.1440.812@0.23.1440.812" timestamp="1608788195832" />
+    <state x="540" y="325" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1608788129810">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="540" y="325" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1440.812@0.23.1440.812" timestamp="1608788129810" />
     <state x="385" y="159" width="670" height="676" key="search.everywhere.popup" timestamp="1608706104747">
       <screen x="0" y="23" width="1440" height="812" />
     </state>
