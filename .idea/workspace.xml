@@ -23,15 +23,19 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:branch-12-24" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:branch_1_19" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2542528b-480b-4ffe-8145-08bce0a477d9" name="Default" comment="优化并删除掉一些没用的代码">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/something/clone/DeepClone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/something/clone/DeepClone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/something/clone/ShallowClone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/something/clone/ShallowClone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/something/proxy/SayHello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/something/proxy/SayHelloImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/something/proxy/SayHelloProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/something/proxy/Test.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/test.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -116,7 +120,14 @@
     <property name="settings.editor.selected.configurable" value="settings.saveactions" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="something" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="test" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="bpmTest" />
       <recent name="test" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -125,13 +136,6 @@
       <recent name="$PROJECT_DIR$/src/main/java/designpattern/proxy" />
       <recent name="$PROJECT_DIR$/src/main/java/map" />
       <recent name="$PROJECT_DIR$/src/main/java/map/mymap1_8" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="bpmTest" />
-      <recent name="test" />
-    </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="something" />
     </key>
   </component>
   <component name="RunManager" selected="Application.NumberTest">
@@ -275,11 +279,11 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.NumberTest" />
-        <item itemvalue="Application.MapTest" />
         <item itemvalue="JUnit.StreamStu_20200528.test3" />
         <item itemvalue="JUnit.StreamStu_20200528.test2" />
         <item itemvalue="JUnit.StreamStu_20200528.test" />
+        <item itemvalue="Application.NumberTest" />
+        <item itemvalue="Application.MapTest" />
       </list>
     </recent_temporary>
   </component>
@@ -531,7 +535,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="branch-12-24" />
+                        <option value="branch_1_19" />
                       </list>
                     </value>
                   </entry>
@@ -560,7 +564,8 @@
     <MESSAGE value="java8 的相关特性" />
     <MESSAGE value="删掉无用的包" />
     <MESSAGE value="优化" />
-    <option name="LAST_COMMIT_MESSAGE" value="优化" />
+    <MESSAGE value="加上家里电脑上的代码：设计模式、map、线程" />
+    <option name="LAST_COMMIT_MESSAGE" value="加上家里电脑上的代码：设计模式、map、线程" />
   </component>
   <component name="WindowStateProjectService">
     <state x="533" y="120" key="#com.intellij.ide.util.MemberChooser" timestamp="1608710146917">
@@ -607,10 +612,10 @@
       <screen x="0" y="23" width="1440" height="812" />
     </state>
     <state width="1237" height="2" key="GridCell.Tab.1.right/0.23.1440.812@0.23.1440.812" timestamp="1608715804415" />
-    <state x="208" y="23" key="SettingsEditor" timestamp="1610932599726">
+    <state x="208" y="23" key="SettingsEditor" timestamp="1610935979692">
       <screen x="0" y="23" width="1440" height="809" />
     </state>
-    <state x="208" y="23" key="SettingsEditor/0.23.1440.809@0.23.1440.809" timestamp="1610932599726" />
+    <state x="208" y="23" key="SettingsEditor/0.23.1440.809@0.23.1440.809" timestamp="1610935979692" />
     <state x="208" y="23" key="SettingsEditor/0.23.1440.812@0.23.1440.812" timestamp="1608705567278" />
     <state x="320" y="169" key="Vcs.Push.Dialog.v2" timestamp="1608788309348">
       <screen x="0" y="23" width="1440" height="812" />
