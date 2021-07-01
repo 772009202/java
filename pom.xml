@@ -19,6 +19,16 @@
                 </configuration>
             </plugin>
         </plugins>
+        <!-- maven打包的时候要指定哪些文件也要打入包里 something/inputstream/test.html 编译的时候就不在class文件下 -->
+        <resources>
+            <resource>
+                <directory>src/main/java</directory>
+                <includes>
+                    <include>**/*.text</include>
+                </includes>
+                <filtering>false</filtering>
+            </resource>
+        </resources>
     </build>
     <dependencies>
         <dependency>
@@ -50,6 +60,11 @@
             <groupId>cglib</groupId>
             <artifactId>cglib</artifactId>
             <version>3.2.12</version>
+        </dependency>
+        <dependency>
+            <groupId>cn.hutool</groupId>
+            <artifactId>hutool-all</artifactId>
+            <version>5.6.5</version>
         </dependency>
     </dependencies>
 </project>
