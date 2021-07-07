@@ -17,7 +17,7 @@ public class ListLondon {
     list.add("chen");
     list.add("london");
     list.add("london2");
-
+    list.add("");
     return list;
   }
 }

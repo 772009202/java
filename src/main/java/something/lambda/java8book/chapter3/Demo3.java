@@ -14,7 +14,7 @@ import java.util.Optional;
  */
 public class Demo3 {
 
-  /** 这个mapToInt还挺叼的 */
+  /** 这个summaryStatistics还挺叼的 */
   @Test
   public void test1() {
     List<String> demo = ListLondon.getList();

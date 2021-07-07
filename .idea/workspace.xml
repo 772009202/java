@@ -23,24 +23,18 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:branch_1_19" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2542528b-480b-4ffe-8145-08bce0a477d9" name="Default" comment="优化代码">
+    <list default="true" id="2542528b-480b-4ffe-8145-08bce0a477d9" name="Default" comment="lambda">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/designpattern/handler/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/something/lambda/new1/FunctionOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/something/lambda/old/new1/FunctionOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/something/lambda/new1/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/something/lambda/old/new1/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/something/lambda/optional/OptionalStu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/something/lambda/old/optional/OptionalStu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/something/lambda/stream/ClosureStu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/something/lambda/old/stream/ClosureStu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/something/lambda/stream/DefaultInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/something/lambda/old/stream/DefaultInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/something/lambda/stream/StreamStu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/something/lambda/old/stream/StreamStu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/something/lambda/stream/StreamStu_20200528.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/something/lambda/old/stream/StreamStu_20200528.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/something/lambda/stream/StreamTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/something/lambda/old/stream/StreamTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/something/lambda/java8book/ListLondon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/something/lambda/java8book/ListLondon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/something/lambda/java8book/chapter3/Demo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/something/lambda/java8book/chapter3/Demo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/something/lambda/java8book/chapter3/Practise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/something/lambda/java8book/chapter3/Practise3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/something/lambda/java8book/chapter4/Demo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/something/lambda/java8book/chapter4/Demo4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/something/lambda/java8book/chapter4/Practise4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/something/lambda/java8book/chapter4/Practise4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -112,7 +106,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.saveactions" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -133,7 +127,7 @@
       <recent name="$PROJECT_DIR$/src/main/java/map/mymap1_8" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.Demo3.test2">
+  <component name="RunManager" selected="JUnit.Practise5.test3">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <option name="WIDTH" value="0" />
@@ -160,16 +154,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo1.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Demo5.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="something.lambda.java8book.chapter2.*" />
+          <option name="PATTERN" value="something.lambda.java8book.chapter5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="something.lambda.java8book.chapter2" />
-      <option name="MAIN_CLASS_NAME" value="something.lambda.java8book.chapter2.Demo1" />
+      <option name="PACKAGE_NAME" value="something.lambda.java8book.chapter5" />
+      <option name="MAIN_CLASS_NAME" value="something.lambda.java8book.chapter5.Demo5" />
       <option name="METHOD_NAME" value="test1" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -177,68 +171,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo1.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="Practise5.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="test" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="something.lambda.java8book.chapter2.*" />
+          <option name="PATTERN" value="something.lambda.java8book.chapter5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="something.lambda.java8book.chapter2" />
-      <option name="MAIN_CLASS_NAME" value="something.lambda.java8book.chapter2.Demo1" />
+      <option name="PACKAGE_NAME" value="something.lambda.java8book.chapter5" />
+      <option name="MAIN_CLASS_NAME" value="something.lambda.java8book.chapter5.Practise5" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practise5.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="something.lambda.java8book.chapter5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="something.lambda.java8book.chapter5" />
+      <option name="MAIN_CLASS_NAME" value="something.lambda.java8book.chapter5.Practise5" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Practise5.test3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="something.lambda.java8book.chapter5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="something.lambda.java8book.chapter5" />
+      <option name="MAIN_CLASS_NAME" value="something.lambda.java8book.chapter5.Practise5" />
       <option name="METHOD_NAME" value="test3" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo3.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="something.lambda.java8book.chapter3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="something.lambda.java8book.chapter3" />
-      <option name="MAIN_CLASS_NAME" value="something.lambda.java8book.chapter3.Demo3" />
-      <option name="METHOD_NAME" value="test2" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Practise2.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="something.lambda.java8book.chapter2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="something.lambda.java8book.chapter2" />
-      <option name="MAIN_CLASS_NAME" value="something.lambda.java8book.chapter2.Practise2" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Practise2.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="test" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="something.lambda.java8book.chapter2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="something.lambda.java8book.chapter2" />
-      <option name="MAIN_CLASS_NAME" value="something.lambda.java8book.chapter2.Practise2" />
-      <option name="METHOD_NAME" value="test2" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -247,6 +224,21 @@
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="something.lambda.java8book.chapter5 in test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="something.lambda.java8book.chapter5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="something.lambda.java8book.chapter5" />
+      <option name="TEST_OBJECT" value="package" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -272,19 +264,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Test (1)" />
-      <item itemvalue="JUnit.Demo1.test1" />
-      <item itemvalue="JUnit.Demo1.test3" />
-      <item itemvalue="JUnit.Practise2.test1" />
-      <item itemvalue="JUnit.Practise2.test2" />
-      <item itemvalue="JUnit.Demo3.test2" />
+      <item itemvalue="JUnit.something.lambda.java8book.chapter5 in test" />
+      <item itemvalue="JUnit.Demo5.test1" />
+      <item itemvalue="JUnit.Practise5.test1" />
+      <item itemvalue="JUnit.Practise5.test2" />
+      <item itemvalue="JUnit.Practise5.test3" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.Demo3.test2" />
-        <item itemvalue="JUnit.Practise2.test2" />
-        <item itemvalue="JUnit.Practise2.test1" />
-        <item itemvalue="JUnit.Demo1.test1" />
-        <item itemvalue="JUnit.Demo1.test3" />
+        <item itemvalue="JUnit.Practise5.test3" />
+        <item itemvalue="JUnit.Practise5.test2" />
+        <item itemvalue="JUnit.Practise5.test1" />
+        <item itemvalue="JUnit.Demo5.test1" />
+        <item itemvalue="JUnit.something.lambda.java8book.chapter5 in test" />
       </list>
     </recent_temporary>
   </component>
@@ -404,7 +396,8 @@
       <workItem from="1624865329774" duration="2246000" />
       <workItem from="1625020554691" duration="6093000" />
       <workItem from="1625039018971" duration="10047000" />
-      <workItem from="1625105611158" duration="3779000" />
+      <workItem from="1625105611158" duration="26144000" />
+      <workItem from="1625621064948" duration="497000" />
     </task>
     <task id="LOCAL-00001" summary="代理模式">
       <created>1505379985812</created>
@@ -553,7 +546,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610936072681</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="lambda">
+      <created>1625116957658</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1625116957658</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -570,7 +570,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="branch_1_19" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>
@@ -601,86 +601,105 @@
     <MESSAGE value="优化" />
     <MESSAGE value="加上家里电脑上的代码：设计模式、map、线程" />
     <MESSAGE value="优化代码" />
-    <option name="LAST_COMMIT_MESSAGE" value="优化代码" />
+    <MESSAGE value="lambda" />
+    <option name="LAST_COMMIT_MESSAGE" value="lambda" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="773" y="178" key="#com.intellij.ide.util.MemberChooser" timestamp="1625108127009">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="652" y="206" width="1168" height="740" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1625120149370">
+      <screen x="0" y="25" width="1920" height="1021" />
+    </state>
+    <state x="652" y="206" width="1168" height="740" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/-1440.25.1440.875/0.25.1920.1021@0.25.1920.1021" timestamp="1625120149370" />
+    <state x="773" y="193" key="#com.intellij.ide.util.MemberChooser" timestamp="1625128637387">
+      <screen x="0" y="25" width="1920" height="1021" />
     </state>
     <state x="773" y="178" key="#com.intellij.ide.util.MemberChooser/-1440.0.1440.900/0.0.1920.1080@0.0.1920.1080" timestamp="1625108127009" />
     <state x="773" y="199" key="#com.intellij.ide.util.MemberChooser/-1440.25.1440.841/0.25.1920.1055@0.25.1920.1055" timestamp="1625041400202" />
+    <state x="773" y="193" key="#com.intellij.ide.util.MemberChooser/-1440.25.1440.875/0.25.1920.1021@0.25.1920.1021" timestamp="1625128637387" />
     <state x="773" y="194" key="#com.intellij.ide.util.MemberChooser/-1440.25.1440.875/0.25.1920.1023@0.25.1920.1023" timestamp="1624268308178" />
-    <state width="1876" height="495" key="GridCell.Tab.0.bottom" timestamp="1625116851175">
+    <state x="693" y="161" width="1187" height="819" key="DiffContextDialog" timestamp="1625622831453">
+      <screen x="0" y="25" width="1920" height="1019" />
+    </state>
+    <state x="693" y="161" width="1187" height="819" key="DiffContextDialog/-1440.25.1440.875/0.25.1920.1019@0.25.1920.1019" timestamp="1625622831453" />
+    <state width="1876" height="315" key="GridCell.Tab.0.bottom" timestamp="1625219368421">
       <screen x="0" y="25" width="1920" height="1021" />
     </state>
     <state width="1178" height="219" key="GridCell.Tab.0.bottom/-1440.25.1440.841/0.25.1920.1055@0.25.1920.1055" timestamp="1625046143784" />
-    <state width="1876" height="495" key="GridCell.Tab.0.bottom/-1440.25.1440.875/0.25.1920.1021@0.25.1920.1021" timestamp="1625116851175" />
+    <state width="1876" height="315" key="GridCell.Tab.0.bottom/-1440.25.1440.875/0.25.1920.1021@0.25.1920.1021" timestamp="1625219368421" />
     <state width="1878" height="353" key="GridCell.Tab.0.bottom/-1440.25.1440.875/0.25.1920.1023@0.25.1920.1023" timestamp="1624582653284" />
     <state width="1878" height="162" key="GridCell.Tab.0.bottom/-1440.25.1440.875/0.25.1920.963@0.25.1920.963" timestamp="1623985196377" />
     <state width="1398" height="353" key="GridCell.Tab.0.bottom/0.25.1440.783@0.25.1440.783" timestamp="1622623271372" />
     <state width="1398" height="353" key="GridCell.Tab.0.bottom/0.25.1920.963@0.25.1920.963" timestamp="1623243999554" />
-    <state width="1876" height="495" key="GridCell.Tab.0.center" timestamp="1625116851173">
+    <state width="1876" height="315" key="GridCell.Tab.0.center" timestamp="1625219368420">
       <screen x="0" y="25" width="1920" height="1021" />
     </state>
     <state width="1178" height="219" key="GridCell.Tab.0.center/-1440.25.1440.841/0.25.1920.1055@0.25.1920.1055" timestamp="1625046143783" />
-    <state width="1876" height="495" key="GridCell.Tab.0.center/-1440.25.1440.875/0.25.1920.1021@0.25.1920.1021" timestamp="1625116851173" />
+    <state width="1876" height="315" key="GridCell.Tab.0.center/-1440.25.1440.875/0.25.1920.1021@0.25.1920.1021" timestamp="1625219368420" />
     <state width="1878" height="353" key="GridCell.Tab.0.center/-1440.25.1440.875/0.25.1920.1023@0.25.1920.1023" timestamp="1624582653283" />
     <state width="1878" height="162" key="GridCell.Tab.0.center/-1440.25.1440.875/0.25.1920.963@0.25.1920.963" timestamp="1623985196376" />
     <state width="1398" height="353" key="GridCell.Tab.0.center/0.25.1440.783@0.25.1440.783" timestamp="1622623271372" />
     <state width="1398" height="353" key="GridCell.Tab.0.center/0.25.1920.963@0.25.1920.963" timestamp="1623243999554" />
-    <state width="1876" height="495" key="GridCell.Tab.0.left" timestamp="1625116851171">
+    <state width="1876" height="315" key="GridCell.Tab.0.left" timestamp="1625219368419">
       <screen x="0" y="25" width="1920" height="1021" />
     </state>
     <state width="1178" height="219" key="GridCell.Tab.0.left/-1440.25.1440.841/0.25.1920.1055@0.25.1920.1055" timestamp="1625046143783" />
-    <state width="1876" height="495" key="GridCell.Tab.0.left/-1440.25.1440.875/0.25.1920.1021@0.25.1920.1021" timestamp="1625116851171" />
+    <state width="1876" height="315" key="GridCell.Tab.0.left/-1440.25.1440.875/0.25.1920.1021@0.25.1920.1021" timestamp="1625219368419" />
     <state width="1878" height="353" key="GridCell.Tab.0.left/-1440.25.1440.875/0.25.1920.1023@0.25.1920.1023" timestamp="1624582653283" />
     <state width="1878" height="162" key="GridCell.Tab.0.left/-1440.25.1440.875/0.25.1920.963@0.25.1920.963" timestamp="1623985196375" />
     <state width="1398" height="353" key="GridCell.Tab.0.left/0.25.1440.783@0.25.1440.783" timestamp="1622623271371" />
     <state width="1398" height="353" key="GridCell.Tab.0.left/0.25.1920.963@0.25.1920.963" timestamp="1623243999553" />
-    <state width="1876" height="495" key="GridCell.Tab.0.right" timestamp="1625116851174">
+    <state width="1876" height="315" key="GridCell.Tab.0.right" timestamp="1625219368420">
       <screen x="0" y="25" width="1920" height="1021" />
     </state>
     <state width="1178" height="219" key="GridCell.Tab.0.right/-1440.25.1440.841/0.25.1920.1055@0.25.1920.1055" timestamp="1625046143784" />
-    <state width="1876" height="495" key="GridCell.Tab.0.right/-1440.25.1440.875/0.25.1920.1021@0.25.1920.1021" timestamp="1625116851174" />
+    <state width="1876" height="315" key="GridCell.Tab.0.right/-1440.25.1440.875/0.25.1920.1021@0.25.1920.1021" timestamp="1625219368420" />
     <state width="1878" height="353" key="GridCell.Tab.0.right/-1440.25.1440.875/0.25.1920.1023@0.25.1920.1023" timestamp="1624582653284" />
     <state width="1878" height="162" key="GridCell.Tab.0.right/-1440.25.1440.875/0.25.1920.963@0.25.1920.963" timestamp="1623985196376" />
     <state width="1398" height="353" key="GridCell.Tab.0.right/0.25.1440.783@0.25.1440.783" timestamp="1622623271372" />
     <state width="1398" height="353" key="GridCell.Tab.0.right/0.25.1920.963@0.25.1920.963" timestamp="1623243999554" />
-    <state width="1492" height="104" key="GridCell.Tab.1.bottom" timestamp="1625039014333">
-      <screen x="0" y="25" width="1920" height="1055" />
+    <state width="1876" height="315" key="GridCell.Tab.1.bottom" timestamp="1625219368422">
+      <screen x="0" y="25" width="1920" height="1021" />
     </state>
     <state width="1492" height="104" key="GridCell.Tab.1.bottom/-1440.25.1440.841/0.25.1920.1055@0.25.1920.1055" timestamp="1625039014333" />
-    <state width="1492" height="104" key="GridCell.Tab.1.bottom/-1440.25.1440.875/0.25.1920.1021@0.25.1920.1021" timestamp="1625032857184" />
+    <state width="1876" height="315" key="GridCell.Tab.1.bottom/-1440.25.1440.875/0.25.1920.1021@0.25.1920.1021" timestamp="1625219368422" />
     <state width="1878" height="353" key="GridCell.Tab.1.bottom/-1440.25.1440.875/0.25.1920.1023@0.25.1920.1023" timestamp="1624582653285" />
     <state width="1398" height="353" key="GridCell.Tab.1.bottom/0.25.1440.783@0.25.1440.783" timestamp="1622623271374" />
     <state width="1398" height="353" key="GridCell.Tab.1.bottom/0.25.1920.963@0.25.1920.963" timestamp="1623243999555" />
-    <state width="1492" height="104" key="GridCell.Tab.1.center" timestamp="1625039014332">
-      <screen x="0" y="25" width="1920" height="1055" />
+    <state width="1876" height="315" key="GridCell.Tab.1.center" timestamp="1625219368421">
+      <screen x="0" y="25" width="1920" height="1021" />
     </state>
     <state width="1492" height="104" key="GridCell.Tab.1.center/-1440.25.1440.841/0.25.1920.1055@0.25.1920.1055" timestamp="1625039014332" />
-    <state width="1492" height="104" key="GridCell.Tab.1.center/-1440.25.1440.875/0.25.1920.1021@0.25.1920.1021" timestamp="1625032857183" />
+    <state width="1876" height="315" key="GridCell.Tab.1.center/-1440.25.1440.875/0.25.1920.1021@0.25.1920.1021" timestamp="1625219368421" />
     <state width="1878" height="353" key="GridCell.Tab.1.center/-1440.25.1440.875/0.25.1920.1023@0.25.1920.1023" timestamp="1624582653285" />
     <state width="1398" height="353" key="GridCell.Tab.1.center/0.25.1440.783@0.25.1440.783" timestamp="1622623271373" />
     <state width="1398" height="353" key="GridCell.Tab.1.center/0.25.1920.963@0.25.1920.963" timestamp="1623243999555" />
-    <state width="1492" height="104" key="GridCell.Tab.1.left" timestamp="1625039014332">
-      <screen x="0" y="25" width="1920" height="1055" />
+    <state width="1876" height="315" key="GridCell.Tab.1.left" timestamp="1625219368421">
+      <screen x="0" y="25" width="1920" height="1021" />
     </state>
     <state width="1492" height="104" key="GridCell.Tab.1.left/-1440.25.1440.841/0.25.1920.1055@0.25.1920.1055" timestamp="1625039014332" />
-    <state width="1492" height="104" key="GridCell.Tab.1.left/-1440.25.1440.875/0.25.1920.1021@0.25.1920.1021" timestamp="1625032857183" />
+    <state width="1876" height="315" key="GridCell.Tab.1.left/-1440.25.1440.875/0.25.1920.1021@0.25.1920.1021" timestamp="1625219368421" />
     <state width="1878" height="353" key="GridCell.Tab.1.left/-1440.25.1440.875/0.25.1920.1023@0.25.1920.1023" timestamp="1624582653284" />
     <state width="1398" height="353" key="GridCell.Tab.1.left/0.25.1440.783@0.25.1440.783" timestamp="1622623271372" />
     <state width="1398" height="353" key="GridCell.Tab.1.left/0.25.1920.963@0.25.1920.963" timestamp="1623243999555" />
-    <state width="1492" height="104" key="GridCell.Tab.1.right" timestamp="1625039014332">
-      <screen x="0" y="25" width="1920" height="1055" />
+    <state width="1876" height="315" key="GridCell.Tab.1.right" timestamp="1625219368422">
+      <screen x="0" y="25" width="1920" height="1021" />
     </state>
     <state width="1492" height="104" key="GridCell.Tab.1.right/-1440.25.1440.841/0.25.1920.1055@0.25.1920.1055" timestamp="1625039014332" />
-    <state width="1492" height="104" key="GridCell.Tab.1.right/-1440.25.1440.875/0.25.1920.1021@0.25.1920.1021" timestamp="1625032857184" />
+    <state width="1876" height="315" key="GridCell.Tab.1.right/-1440.25.1440.875/0.25.1920.1021@0.25.1920.1021" timestamp="1625219368422" />
     <state width="1878" height="353" key="GridCell.Tab.1.right/-1440.25.1440.875/0.25.1920.1023@0.25.1920.1023" timestamp="1624582653285" />
     <state width="1398" height="353" key="GridCell.Tab.1.right/0.25.1440.783@0.25.1440.783" timestamp="1622623271373" />
     <state width="1398" height="353" key="GridCell.Tab.1.right/0.25.1920.963@0.25.1920.963" timestamp="1623243999555" />
-    <state x="587" y="126" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1624268533363">
-      <screen x="0" y="25" width="1920" height="1023" />
+    <state x="469" y="171" key="SettingsEditor" timestamp="1625210832227">
+      <screen x="0" y="25" width="1920" height="1021" />
     </state>
+    <state x="469" y="171" key="SettingsEditor/-1440.25.1440.875/0.25.1920.1021@0.25.1920.1021" timestamp="1625210832227" />
+    <state x="560" y="272" key="Vcs.Push.Dialog.v2" timestamp="1625116966734">
+      <screen x="0" y="25" width="1920" height="1021" />
+    </state>
+    <state x="560" y="272" key="Vcs.Push.Dialog.v2/-1440.25.1440.875/0.25.1920.1021@0.25.1920.1021" timestamp="1625116966734" />
+    <state x="587" y="126" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1625212787388">
+      <screen x="0" y="25" width="1920" height="1021" />
+    </state>
+    <state x="587" y="126" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1440.25.1440.875/0.25.1920.1021@0.25.1920.1021" timestamp="1625212787388" />
     <state x="587" y="126" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/-1440.25.1440.875/0.25.1920.1023@0.25.1920.1023" timestamp="1624268533363" />
     <state x="127" y="81" key="new project wizard" timestamp="1620868388963">
       <screen x="0" y="25" width="1440" height="783" />
