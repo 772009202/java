@@ -1,4 +1,4 @@
-package thread.threadArt.sec;
+package java.thread.threadArt.sec;
 
 import java.util.ArrayList;
 import java.util.List;
