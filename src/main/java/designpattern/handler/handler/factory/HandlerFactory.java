@@ -10,17 +10,6 @@ import designpattern.handler.handler.impl.SessionGateWayHandler;
  */
 public class HandlerFactory {
 
-  //  public void Handler() {
-  //    BlackGateWayHandler blackGateWayHandler = new BlackGateWayHandler();
-  //    blackGateWayHandler.service();
-  //    FilterGateWayHandler filterGateWayHandler = new FilterGateWayHandler();
-  //    blackGateWayHandler.setNextGateWayHandler(filterGateWayHandler);
-  //    filterGateWayHandler.service();
-  //    SessionGateWayHandler sessionGateWayHandler = new SessionGateWayHandler();
-  //    filterGateWayHandler.setNextGateWayHandler(sessionGateWayHandler);
-  //    sessionGateWayHandler.service();
-  //  }
-
   public static void main(String[] args) {
     BlackGateWayHandler blackGateWayHandler = new BlackGateWayHandler();
     FilterGateWayHandler filterGateWayHandler = new FilterGateWayHandler();
