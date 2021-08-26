@@ -23,15 +23,12 @@
       <path>
         <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
         <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
-        <item name="BRANCH:branch-12-24" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:branch_8_26" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2542528b-480b-4ffe-8145-08bce0a477d9" name="Default" comment="优化并删除掉一些没用的代码">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/test.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -373,6 +370,7 @@
       <workItem from="1608773132063" duration="1883000" />
       <workItem from="1608864571494" duration="851000" />
       <workItem from="1610672907508" duration="2958000" />
+      <workItem from="1629956287275" duration="131000" />
     </task>
     <task id="LOCAL-00001" summary="代理模式">
       <created>1505379985812</created>
@@ -531,7 +529,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="branch-12-24" />
+                        <option value="branch_8_26" />
                       </list>
                     </value>
                   </entry>
